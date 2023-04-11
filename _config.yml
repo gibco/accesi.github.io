@@ -11,9 +11,9 @@ title                    : "Jhon Gonzalez / Accesiblidad web"
 title_separator          : "-"
 name                     : &name "Jhon Gonzalez"
 description              : &description "personal description"
-url                      : https://gibco.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gibco.github.io #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gibco.github.io/accesibilidad/"
+repository               : "gibco/accesibilidad/github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
